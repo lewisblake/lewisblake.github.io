@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "LEWIS BLAKE" # site title
 title_separator          : "&#124;"
 name                     : &name "Lewis Blake"
-description              : &description "PhD candidate at Colorado School of Mines." # used predominantly in meta descriptions for improving SEO
+description              : &description "PhD Candidate at Colorado School of Mines." # used predominantly in meta descriptions for improving SEO
 url                      : "https://lewisblake.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lewisblake/lewisblake.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "prfessional_photo_cropped.jpg"
-  bio              : "PhD Candidate" # sidebar bio
+  bio              : "PhD Candidate, Statistics" # sidebar bio
   location         : "Golden, Colorado, USA"
   employer         :
   googlescholar    : "DY_BINkAAAAJ"
