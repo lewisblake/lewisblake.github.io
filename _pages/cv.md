@@ -21,8 +21,7 @@ redirect_from:
 - **Ph.D. in Statistics**, 2017-December 2021<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
   - *Thesis:* Computational and Applied Problems in Massive Spatial Data Analysis
-  - *Supervisor:*  [Dr. Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit/)
-  - *Committee* [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
+  - *Committee* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
 
 - **M.Sc. in Statistics**, 2017-2018<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
@@ -47,6 +46,8 @@ redirect_from:
   * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
 
 - **Research and Teaching Assistant**, Colorado School of Mines, 2018-2020
+  * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
+  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA. 
 
 - **AmeriCorps Math Fellow**, Denver Public Schools, August 2016 - June 2017
   *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
@@ -64,7 +65,7 @@ redirect_from:
 - **Other:** Git, MPI Programming
 
 ## Software Publications and Contributions
-- **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial statistical model for various computational infrastructures)
+- **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial model for various computational infrastructures)
 
 - **Python:** [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
 
