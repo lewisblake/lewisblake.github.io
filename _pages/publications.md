@@ -20,12 +20,12 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-## Academic Theses
-{% for post in site.publications_theses reversed %}
+## Technical Reports
+{% for post in site.publications_technotes reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Data & Code
-{% for post in site.publications_data reversed %}
+## Posters
+{% for post in site.publications_posters reversed %}
   {% include archive-single.html %}
 {% endfor %}
