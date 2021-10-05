@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Office
-<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Chaucanet Hall, Room 270, Golden, CO 80401 <br />
+<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Chauvanet Hall, Room 270, Golden, CO 80401 <br />
 
 
 ### Mailing address
@@ -23,7 +23,6 @@ USA
 
 
 ### Online
-<i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a><br />
 <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
 <i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}">Google Scholar</a><br />

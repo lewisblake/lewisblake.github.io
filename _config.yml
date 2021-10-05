@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "professional_photo_cropped.jpg" # Open Graph/Twitter default site image
+og_image                 : "profile_default.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "prfessional_photo_cropped.jpg"
+  avatar           : "professional_photo_cropped.jpg"
   bio              : "PhD Candidate, Statistics" # sidebar bio
   location         : "Golden, Colorado, USA"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "lewisblake"
-  orcid            :
+  orcid            : "0000-0002-9978-1702"
   phone            : "+1 319 389 6606"
   pinterest        :
   soundcloud       :
