@@ -19,7 +19,7 @@ redirect_from:
 
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
-**[Department of Applied Mathematics and Statistics, Colorado School of Mines](https://ams.mines.edu/ "https://ams.mines.edu/"))**
+**[Department of Applied Mathematics and Statistics, Colorado School of Mines](https://ams.mines.edu/ "https://ams.mines.edu/")**
   - *Thesis:* Computational and Applied Problems in Massive Spatial Data Analysis
   - *Supervisor:*  [Dr. Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit/)
   - *Committee* [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
@@ -27,19 +27,20 @@ redirect_from:
 - **M.Sc. in Statistics**, 2017-2018<br>
 **[Department of Applied Mathematics and Statistics, Colorado School of Mines](https://ams.mines.edu/ "https://ams.mines.edu/")**
 
-- **B.Sc. in Mathematics**, 2012-2016<br>
+- **B.A. in Mathematics**, 2012-2016<br>
 **[Hampshire College](https://www.hampshire.edu/ "https://www.hampshire.edu/")**
   - *Thesis:* Assume a Spherical Cow: Mathematical Modeling of Bovine Dynamical Systems
   - *Supervisors:* [Dr. Sarah Hews](https://www.hampshire.edu/faculty/sarah-hews), [Dr. Geremías Polanco Encarnación](https://www.hampshire.edu/faculty/gerem%C3%ADas-polanco-encarnaci%C3%B3n)
   - *Minor Concentrations:* Computer Science, Agriculture
 
 ## Experience
-- **Researcher**, National Center for Atmospheric Research, 2018-2021
+- **Researcher**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), 2018-2021
   - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
   * Implemented and released parallel machine learning models (Multi-Resolution Approximation) allowing users to compute with hundreds-of-millions of observations
   * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
 
 - **Data Science Intern**, CenturyLink, June 2020 - August 2020
+
   -*Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
   * Developed novel and scalable machine learning algorithms for IT application health prediction
   * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
@@ -61,18 +62,17 @@ redirect_from:
 - **Packages:** Numpy, Scipy, scikit-learn, Keras, Tensorflow, Pandas, ggplot2, dplyr, cartopy, netCDF4
 
 ## Software Publications and Contributions
-- **Matlab:** Implementations of the Multi-resolution Approximation spatial statistical model for various computational infrastructures
-* [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA)
-* [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel)
-* [MRA-Serial](https://github.com/lewisblake/MRA-Serial)
+- **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial statistical model for various computational infrastructures)
+
 - **Python:** [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
 
 
 ## Recent Projects
-- **NCAR Research Project:** Multi-resolution approximation
+**NCAR Research Project:** Multi-resolution approximation
 * Implemented multiple parallel hierarchical machine learning models for massive satellite data. Scaled data input sizes by 1,700% to more than 47 million observations and reduced computing times by 75%
 * First author of three associated technical reports, second author on one
-- **KAUST Competition on Spatial Statistics for Large Datasets**
+
+**KAUST Competition on Spatial Statistics for Large Datasets**
 * Led and organized a group of ten Colorado School of Mines graduate students, postdocs, and faculty to participate in a competition for modern spatial statics methods for large data sets. First author on an associated discussion paper
 
 
