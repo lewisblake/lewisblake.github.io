@@ -14,8 +14,9 @@ redirect_from:
 <h2 align="center">{{ site.author.name }}</h2>
 <!-- <h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3> -->
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
+<!-- &#124; This symbol is a vertical bar-->
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124;</p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> </p>
 
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
@@ -47,7 +48,7 @@ redirect_from:
 
 - **Research and Teaching Assistant**, Colorado School of Mines, 2018-2020
   * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
-  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA. 
+  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA.
 
 - **AmeriCorps Math Fellow**, Denver Public Schools, August 2016 - June 2017
   *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
