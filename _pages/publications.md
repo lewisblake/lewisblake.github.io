@@ -5,8 +5,8 @@ excerpt: "List of academic publications."
 author_profile: true
 redirect_from:
   - /publications/articles/
-  - /publications/theses/
-  - /publications/data/
+  - /publications/technotes/
+  - /publications/posters/
 ---
 
 {% include base_path %}

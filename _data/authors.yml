@@ -4,7 +4,7 @@ Lewis Blake:
   uri         : #""
   email       : "lewisraeblake@gmail.com"
   bio         : #""
-  avatar      : "/lewisblake.github.io/images/professional_photo_cropped.jpg"
+  avatar      : "professional_photo_cropped.jpg" #/lewisblake.github.io/images/
   twitter     : #""
   google_plus : #"Name"
 
