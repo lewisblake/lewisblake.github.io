@@ -33,20 +33,52 @@ redirect_from:
   - *Supervisors:* [Dr. Sarah Hews](https://www.hampshire.edu/faculty/sarah-hews), [Dr. Geremías Polanco Encarnación](https://www.hampshire.edu/faculty/gerem%C3%ADas-polanco-encarnaci%C3%B3n)
   - *Minor Concentrations:* Computer Science, Agriculture
 
-## Relevant Academic Positions
+## Experience
 - **Researcher**, National Center for Atmospheric Research, 2018-2021
   - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
+  * Implemented and released parallel machine learning models (Multi-Resolution Approximation) allowing users to compute with hundreds-of-millions of observations
+  * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
 
+- **Data Science Intern**, CenturyLink, June 2020 - August 2020
+  -*Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
+  * Developed novel and scalable machine learning algorithms for IT application health prediction
+  * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
 
-## Scientific Background
-- **Physics courses:** classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
-- **Mathematics courses:** analysis, complex analysis, linear algebra
-- **Climate physics courses:** ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
+- **Research and Teaching Assistant**, Colorado School of Mines, 2018-2020
+
+- **AmeriCorps Math Fellow**, Denver Public Schools, August 2016 - June 2017
+  *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
+
+- **Research Fellow**, Four-College Biomathematics Consortium, May 2015 - May 2016
+  * Implemented original research modeling bovine water-intake in pasture
+  * Designed and built low-cost, passive data collection tools
+  * Modeled ice phenology of Lake Linné, Svalbard, Norway
+  * Presented research results at consortium conferences
+
 
 ## Computer Skills
 - **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, Postgres SQL
 - **Packages:** Numpy, Scipy, scikit-learn, Keras, Tensorflow, Pandas, ggplot2, dplyr, cartopy, netCDF4
 
+## Software Publications and Contributions
+- **Matlab:** Implementations of the Multi-resolution Approximation spatial statistical model for various computational infrastructures
+* [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA)
+* [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel)
+* [MRA-Serial](https://github.com/lewisblake/MRA-Serial)
+- **Python:** [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
+
+
+## Recent Projects
+- **NCAR Research Project:** Multi-resolution approximation
+* Implemented multiple parallel hierarchical machine learning models for massive satellite data. Scaled data input sizes by 1,700% to more than 47 million observations and reduced computing times by 75%
+* First author of three associated technical reports, second author on one
+- **KAUST Competition on Spatial Statistics for Large Datasets**
+* Led and organized a group of ten Colorado School of Mines graduate students, postdocs, and faculty to participate in a competition for modern spatial statics methods for large data sets. First author on an associated discussion paper
+
+
+## Professional Services
+- **Referee:** Electronic Journal of Statistics, The Annals of Applied Statistics
+- **Judge:** Colorado School of Mines Undergraduate Research Symposium 2020
 
 ## Peer-Reviewed Publications
 <ul>{% for post in site.publications reversed %}
