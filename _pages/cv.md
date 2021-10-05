@@ -15,7 +15,7 @@ redirect_from:
 <!-- <h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3> -->
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124;</p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124;</p>
 
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
@@ -42,7 +42,7 @@ redirect_from:
 
 - **Data Science Intern**, CenturyLink, June 2020 - August 2020
 
-  -*Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
+  - *Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
   * Developed novel and scalable machine learning algorithms for IT application health prediction
   * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
 
@@ -61,6 +61,7 @@ redirect_from:
 ## Computer Skills
 - **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, Postgres SQL
 - **Packages:** Numpy, Scipy, scikit-learn, Keras, Tensorflow, Pandas, ggplot2, dplyr, cartopy, netCDF4
+- **Other:** Git, MPI Programming
 
 ## Software Publications and Contributions
 - **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial statistical model for various computational infrastructures)

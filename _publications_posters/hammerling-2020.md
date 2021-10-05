@@ -1,8 +1,8 @@
 ---
 title: "Student-led investigation of TROPOMI data for the US."
 collection: publications
-permalink: /publications/articles/blake-2021
-citation: "Hammerling, D.M., <b>Blake, L.R.</b>,  Daniels, W., Dykstal, A., and Crowell, S.: <i>&quot;Student-led investigation of TROPOMI data for the US.&quot;</i>,  European Geosciences Union General Assembly 2020, DOI: <a href='https://doi.org/10.5194/egusphere-egu2020-22133'>https://doi.org/10.5194/egusphere-egu2020-22133</a>, 2020."
+permalink: /publications/articles/hammerling-2021
+citation: "Hammerling, D.M., <b>Blake, L.R.</b>,  Daniels, W., Dykstal, A., and Crowell, S.: <i>&quot;Student-led investigation of TROPOMI data for the US.&quot;</i>, Poster, European Geosciences Union General Assembly 2020, DOI: <a href='https://doi.org/10.5194/egusphere-egu2020-22133'>https://doi.org/10.5194/egusphere-egu2020-22133</a>, 2020."
 date: 2020-05-04
 venue: 'European Geosciences Union General Assembly 2020'
 ---

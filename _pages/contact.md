@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Office
-<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Chauvanet Hall, Room 270, Golden, CO 80401 <br />
+<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Chauvanet Hall, Room 270, Golden, CO, 80401 <br />
 
 
 ### Mailing address
