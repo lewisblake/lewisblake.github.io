@@ -1,7 +1,7 @@
 ---
 title: "Spatial Statistics (MATH-532)"
 collection: teaching
-type: "Graduate course, Teaching assistant"
+type: "Graduate course, Grader"
 #permalink: /outreach/teaching/2018-summer-ice
 venue: "Colorado School of Mines, Applied Mathematics and Statistics"
 date: 2020-08-24

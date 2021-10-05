@@ -12,20 +12,20 @@ redirect_from:
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
 <h2 align="center">{{ site.author.name }}</h2>
-<h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3>
+<!-- <h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3> -->
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124;</p>
 
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
-**[Department of Applied Mathematics and Statistics, Colorado School of Mines](https://ams.mines.edu/ "https://ams.mines.edu/")**
+**[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
   - *Thesis:* Computational and Applied Problems in Massive Spatial Data Analysis
   - *Supervisor:*  [Dr. Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit/)
   - *Committee* [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
 
 - **M.Sc. in Statistics**, 2017-2018<br>
-**[Department of Applied Mathematics and Statistics, Colorado School of Mines](https://ams.mines.edu/ "https://ams.mines.edu/")**
+**[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
 
 - **B.A. in Mathematics**, 2012-2016<br>
 **[Hampshire College](https://www.hampshire.edu/ "https://www.hampshire.edu/")**
@@ -34,7 +34,8 @@ redirect_from:
   - *Minor Concentrations:* Computer Science, Agriculture
 
 ## Experience
-- **Researcher**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), 2018-2021
+- **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), 2018-2021
+
   - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
   * Implemented and released parallel machine learning models (Multi-Resolution Approximation) allowing users to compute with hundreds-of-millions of observations
   * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
@@ -85,13 +86,13 @@ redirect_from:
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Academic Theses
-<ul>{% for post in site.publications_theses reversed %}
+## Technical Reports
+<ul>{% for post in site.publications_technotes reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Data & Code
-<ul>{% for post in site.publications_data reversed %}
+## Poster Publications
+<ul>{% for post in site.publications_posters reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
