@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  publications_theses:
+  publications_technotes:
     output: true
     permalink: /:collection/:path/
-  publications_data:
+  publications_posters:
     output: true
     permalink: /:collection/:path/
   talks:
