@@ -1,8 +1,8 @@
 ---
 title: "Underground Mine Scheduling Under Uncertainty"
 collection: publications
-permalink: /publications/articles/blake-2021
-citation: "Nesbitt, P.,<b>Blake, L.R.</b>, Lamas, P., Goycoolea, M., Pagnoncelli, B.K., Newman, A.,  Brickey, A.: <i>&quot;Underground Mine Scheduling Under Uncertainty&quot;</i>, European Journal of Operational Research, Volume 294, Issue 1, DOI: <a href='https://doi.org/10.1016/j.ejor.2021.01.011'>https://doi.org/10.1016/j.ejor.2021.01.011</a>, Pages 340-352,
+permalink: /publications/articles/nesbitt-2021
+citation: "Nesbitt, P., <b>Blake, L.R.</b>, Lamas, P., Goycoolea, M., Pagnoncelli, B.K., Newman, A.,  Brickey, A.: <i>&quot;Underground Mine Scheduling Under Uncertainty&quot;</i>, European Journal of Operational Research, Volume 294, Issue 1, DOI: <a href='https://doi.org/10.1016/j.ejor.2021.01.011'>https://doi.org/10.1016/j.ejor.2021.01.011</a>, Pages 340-352,
 ISSN 0377-2217, 2021."
 date: 2021-01-11
 venue: 'European Journal of Operational Research'
