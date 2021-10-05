@@ -59,8 +59,8 @@ redirect_from:
 
 
 ## Computer Skills
-- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, Postgres SQL
-- **Packages:** Numpy, Scipy, scikit-learn, Keras, Tensorflow, Pandas, ggplot2, dplyr, cartopy, netCDF4
+- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4
 - **Other:** Git, MPI Programming
 
 ## Software Publications and Contributions

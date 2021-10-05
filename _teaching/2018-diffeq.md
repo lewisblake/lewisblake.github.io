@@ -7,7 +7,7 @@ venue: "Colorado School of Mines, Applied Mathematics and Statistics"
 date: 2018-08-20
 ---
 
-**Course:** &quot;Differential Equations (MATH-225)&quot; (Fall term 2018)
+**Course:** &quot;Differential Equations (MATH-225)&quot; (Fall term 2018, Spring term 2019)
 
 **Type:** Undergraduate course
 
