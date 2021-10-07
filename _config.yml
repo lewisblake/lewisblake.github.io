@@ -248,6 +248,15 @@ defaults:
       author_profile: true
       share: false
       comments: false
+  # _publications_in_preparation
+  - scope:
+      path: ""
+      type: publications_in_preparation
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""

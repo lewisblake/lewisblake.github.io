@@ -22,7 +22,7 @@ redirect_from:
 - **Ph.D. in Statistics**, 2017-December 2021<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
   - *Thesis:* Computational and Applied Problems in Massive Spatial Data Analysis
-  - *Committee* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
+  - *Committee:* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
 
 - **M.Sc. in Statistics**, 2017-2018<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
@@ -34,10 +34,10 @@ redirect_from:
   - *Minor Concentrations:* Computer Science, Agriculture
 
 ## Experience
-- **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), 2018-2021
+- **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), Summers 2018, 2019, and 2021
 
   - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
-  * Implemented and released parallel machine learning models (Multi-Resolution Approximation) allowing users to compute with hundreds-of-millions of observations
+  * Implemented and released parallel machine learning models (Multi-resolution Approximation) allowing users to compute with hundreds-of-millions of observations
   * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
 
 - **Data Science Intern**, CenturyLink, June 2020 - August 2020
@@ -48,7 +48,7 @@ redirect_from:
 
 - **Research and Teaching Assistant**, Colorado School of Mines, 2018-2020
   * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
-  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA.
+  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
 
 - **AmeriCorps Math Fellow**, Denver Public Schools, August 2016 - June 2017
   *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
@@ -77,7 +77,8 @@ redirect_from:
 * First author of three associated technical reports, second author on one
 
 **KAUST Competition on Spatial Statistics for Large Datasets**
-* Led and organized a group of ten Colorado School of Mines graduate students, postdocs, and faculty to participate in a competition for modern spatial statics methods for large data sets. First author on an associated discussion paper
+* Led and organized a group of ten Colorado School of Mines graduate students, postdocs, and faculty to participate in a competition for modern spatial statics methods for large data sets.
+* First author on an associated discussion paper
 
 
 ## Professional Services
@@ -96,6 +97,11 @@ redirect_from:
 
 ## Poster Publications
 <ul>{% for post in site.publications_posters reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Manuscripts in Preparation and Preprints
+<ul>{% for post in site.publications_in_preparation reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
