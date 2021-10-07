@@ -187,6 +187,9 @@ collections:
   publications_posters:
     output: true
     permalink: /:collection/:path/
+  publications_in_preparation:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
