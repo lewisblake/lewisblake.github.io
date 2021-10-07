@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limit: A Hybrid Parallel Implementation of the Multi-Resolution Approximation for Massive Data"
 collection: publications
-permalink: /publications/articles/huang-2019
+permalink: /publications/technotes/huang-2019
 citation: "Huang, H., <b>Blake, L.R.</b>, and Hammerling, D.M.: <i>&quot;Pushing the Limit: A Hybrid Parallel Implementation of the Multi-Resolution Approximation for Massive Data&quot;</i>, NCAR Technical Note NCAR/TN-551+STR, DOI: <a href='http://dx.doi.org/10.5065/nnt6-q689'>10.5065/nnt6-q689H</a>, 2019."
 date: 2019-04-03
 venue: 'NCAR Technical Notes'

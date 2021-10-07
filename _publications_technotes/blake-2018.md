@@ -1,7 +1,7 @@
 ---
 title: "Parallel implementation and computational analysis of the multi-resolution approximation"
 collection: publications
-permalink: /publications/articles/blake-2018
+permalink: /publications/technotes/blake-2018
 citation: "<b>Blake, L.R.</b>, Simonson, P., and Hammerling, D.M.: <i>&quot;Parallel implementation and computational analysis of the multi-resolution approximation&quot;</i>, NCAR Technical Note NCAR/TN-551+STR, DOI: <a href='http://dx.doi.org/10.5065/D6XW4HNH'>10.5065/D6XW4HNH</a>, 2018."
 date: 2018-10-26
 venue: 'NCAR Technical Notes'

@@ -1,7 +1,7 @@
 ---
 title: "A Shallow-Tree Multi-Resolution Approximation for Distributed and High-Performance Computing Systems"
 collection: publications
-permalink: /publications/articles/blake-2019
+permalink: /publications/technotes/blake-2019
 citation: "<b>Blake, L.R.</b>, Huang, H., Vanderwende, B., and Hammerling, D.M.: <i>&quot;A Shallow-Tree Multi-Resolution Approximation for Distributed and High-Performance Computing Systems&quot;</i>, NCAR Technical Note NCAR/TN-559+STR, DOI: <a href='http://dx.doi.org/10.5065/hvvq-j471'>10.5065/hvvq-j471</a>, 2019."
 date: 2019-08-13
 venue: 'NCAR Technical Notes'
