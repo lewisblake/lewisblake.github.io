@@ -40,20 +40,20 @@ redirect_from:
   * Implemented and released parallel machine learning models (Multi-resolution Approximation) allowing users to compute with hundreds-of-millions of observations
   * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
 
-- **Data Science Intern**, CenturyLink, June 2020 - August 2020
+- **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2020 - August 2020
 
   - *Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
   * Developed novel and scalable machine learning algorithms for IT application health prediction
   * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
 
-- **Research and Teaching Assistant**, Colorado School of Mines, 2018-2020
+- **Research and Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
   * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
   * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
 
-- **AmeriCorps Math Fellow**, Denver Public Schools, August 2016 - June 2017
+- **AmeriCorps Math Fellow**, [Denver Public Schools](https://www.dpsk12.org/), August 2016 - June 2017
   *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
 
-- **Research Fellow**, Four-College Biomathematics Consortium, May 2015 - May 2016
+- **Research Fellow**, [Four-College Biomathematics Consortium](https://sophia.smith.edu/blog/4cbc/4cbc-fellowships/), May 2015 - May 2016
   * Implemented original research modeling bovine water-intake in pasture
   * Designed and built low-cost, passive data collection tools
   * Modeled ice phenology of Lake Linné, Svalbard, Norway
