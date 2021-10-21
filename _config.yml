@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "Sheer_G_Lewis_Headshots_10.17.21_007.jpg"
+  avatar           : "Sheer_G_Lewis_Headshots_10.17.21_007_compressed.jpg"
   bio              : "PhD Candidate, Statistics" # sidebar bio
   location         : "Golden, Colorado, USA"
   employer         :
