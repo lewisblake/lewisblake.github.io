@@ -21,7 +21,7 @@ redirect_from:
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
-  - *Thesis:* Computational and Applied Problems in Massive Spatial Data Analysis
+  - *Thesis:* Enabling Massive Spatial Data Analysis
   - *Committee:* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
 
 - **M.Sc. in Statistics**, 2017-2018<br>
