@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-### Office
-<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Chauvanet Hall, Room 270, Golden, CO, 80401 <br />
-
-
 ### Mailing address
 <address>
-Applied Mathematics and Statistics, Colorado School of Mines<br />
-1500 Illinois St<br />
-Golden, CO, 80401<br />
-USA
+Meteorologisk institutt<br />
+Henrik Mohns plass 1<br />
+0313 Oslo<br />
+Norway
 </address><br />
 
 

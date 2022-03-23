@@ -34,6 +34,10 @@ redirect_from:
   - *Minor Concentrations:* Computer Science, Agriculture
 
 ## Experience
+- **Computational Scientist**, [Norwegian Meterological Institute](https://www.met.no), March 2022 - Present
+
+  - *Working group:* Division For Climate Modeling and Air Pollution
+
 - **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), Summers 2018, 2019, and 2021
 
   - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
