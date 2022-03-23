@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "LEWIS BLAKE" # site title
 title_separator          : "&#124;"
 name                     : &name "Lewis Blake"
-description              : &description "PhD Candidate at Colorado School of Mines." # used predominantly in meta descriptions for improving SEO
+description              : &description "Computational Scientist." # used predominantly in meta descriptions for improving SEO
 url                      : "https://lewisblake.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lewisblake/lewisblake.github.io"
@@ -77,18 +77,18 @@ social:
 analytics:
   provider               : "false" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
 author:
   name             : *name # sidebar name
   avatar           : "Sheer_G_Lewis_Headshots_10.17.21_007_compressed.jpg"
-  bio              : "PhD Candidate, Statistics" # sidebar bio
-  location         : "Golden, Colorado, USA"
+  bio              : "Computational Scientist" # sidebar bio
+  location         : "Oslo, Norway"
   employer         :
   googlescholar    : "DY_BINkAAAAJ"
-  email            : "lewisraeblake@gmail.com"
+  email            : "lewis.blake@met.no"
   researchgate     : "Lewis-Blake"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         : "lewisblake"
   orcid            : "0000-0002-9978-1702"
-  phone            : "+1 319 389 6606"
+  phone            : "+47 457 39 178"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
