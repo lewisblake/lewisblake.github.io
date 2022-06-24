@@ -52,7 +52,7 @@ redirect_from:
 
 - **Research and Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
   * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
-  * A primary component of my PhD work has been as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
+  * A primary component of my PhD work was as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
 
 - **AmeriCorps Math Fellow**, [Denver Public Schools](https://www.dpsk12.org/), August 2016 - June 2017
   *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
@@ -72,17 +72,7 @@ redirect_from:
 ## Software Publications and Contributions
 - **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial model for various computational infrastructures)
 
-- **Python:** [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
-
-
-## Recent Projects
-**NCAR Research Project:** Multi-resolution approximation
-* Implemented multiple parallel hierarchical machine learning models for massive satellite data. Scaled data input sizes by 1,700% to more than 47 million observations and reduced computing times by 75%
-* First author of three associated technical reports, second author on one
-
-**KAUST Competition on Spatial Statistics for Large Datasets**
-* Led and organized a group of ten Colorado School of Mines graduate students, postdocs, and faculty to participate in a competition for modern spatial statics methods for large data sets.
-* First author on an associated discussion paper
+- **Python:** [pyaerocom](https://github.com/metno/pyaerocom) (Python tools for the AeroCom project), [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
 
 
 ## Professional Services
