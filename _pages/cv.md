@@ -21,7 +21,7 @@ redirect_from:
 ## Education
 - **Ph.D. in Statistics**, 2017-December 2021<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
-  - *Thesis:* Enabling Massive Spatial Data Analysis
+  - *Thesis:* [Enabling Massive Spatial Data Analysis](https://hdl.handle.net/11124/15362)
   - *Committee:* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
 
 - **M.Sc. in Statistics**, 2017-2018<br>
@@ -66,7 +66,7 @@ redirect_from:
 
 ## Computer Skills
 - **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray
 - **Other:** Git, MPI Programming
 
 ## Software Publications and Contributions
@@ -76,7 +76,7 @@ redirect_from:
 
 
 ## Professional Services
-- **Referee:** Electronic Journal of Statistics, The Annals of Applied Statistics
+- **Referee:** Electronic Journal of Statistics, The Annals of Applied Statistics, Environmetrics
 - **Judge:** Colorado School of Mines Undergraduate Research Symposium 2020
 
 ## Peer-Reviewed Publications
