@@ -2,7 +2,7 @@
 title: "Deposition of sulfur and nitrogen in Norway 2017-2021"
 collection: publications
 permalink: /publications/technotes/blake-2023
-citation: "<b>Blake, L.R.</b>, Aas, W., Denby, B., Hjellbrekke, A., Mu, Q., Simpson, D., Ytre-Eide, M., Fagerli, H. : <i>&quot;Deposition of sulfur and nitrogen in Norway 2017-2021&quot;</i>, MET Report, DOI: <a href='https://www.met.no/publikasjoner/met-report'>ISSN 2387-4201</a>, 2023."
+citation: "<b>Blake, L.R.</b>, Aas, W., Denby, B., Hjellbrekke, A., Mu, Q., Simpson, D., Ytre-Eide, M., Fagerli, H. : <i>&quot;Deposition of sulfur and nitrogen in Norway 2017-2021&quot;</i>, MET Report<a href='https://www.met.no/publikasjoner/met-report'>ISSN 2387-4201</a>, 2023."
 date: 2021-05-17
 venue: 'MET Report'
 ---
