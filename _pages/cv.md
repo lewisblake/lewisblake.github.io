@@ -31,47 +31,47 @@ redirect_from:
 **[Hampshire College](https://www.hampshire.edu/ "https://www.hampshire.edu/")**
   - *Thesis:* Assume a Spherical Cow: Mathematical Modeling of Bovine Dynamical Systems
   - *Supervisors:* [Dr. Sarah Hews](https://www.hampshire.edu/faculty/sarah-hews), [Dr. Geremías Polanco Encarnación](https://www.hampshire.edu/faculty/gerem%C3%ADas-polanco-encarnaci%C3%B3n)
-  - *Minor Concentrations:* Computer Science, Agriculture
+  - *Minor Concentrations:* Computer Science, Agriculture, Entrepreneurship
 
 ## Experience
 - **Computational Scientist**, [Norwegian Meterological Institute](https://www.met.no), March 2022 - Present
 
-  - *Working group:* Division For Climate Modeling and Air Pollution
-  - Managed and implemented contracts for the Copernicus Atmosphere Monitoring Service (CAMS) for regional and global air quality model evaluation from software package development through production.
-  - Achieved significant advancements in pollution deposition modeling for Norway, utilizing cutting-edge machine learning-based data fusion techniques.
-  - Authored a comprehensive technical report outlining the methodology, findings, and environmental and economic impacts for the Norwegian Environment Agency.
+  - Researcher and software developer in the Department of Research and Development, Division For Climate Modeling and Air Pollution
+  - Managed and implemented contracts for the Copernicus Atmosphere Monitoring Service (CAMS) for regional and global air quality model evaluation from software package development through production
+  - Achieved significant advancements in pollution deposition modeling for Norway, utilizing cutting-edge machine learning-based data fusion techniques
+  - Authored a comprehensive technical report outlining the methodology, findings, and environmental and economic impacts for the Norwegian Environment Agency
 
 - **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), Summers 2018, 2019, and 2021
-  * Contributed to the [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/"), Analytics and Integrative Machine Learning Group during summer appointments in 2018, 2019, and 2021.
-  * Developed and implemented highly efficient parallel machine learning models (Multi-Resolution Approximation for Gaussian Processes), enabling processing of large datasets (hundreds-of-millions of observations) with reduced computation times by 75%.
-  * Analyzed extensive geospatial satellite data on high-performance computing systems ([Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper)), uncovering global patterns and trends.
-  * Facilitated development of streamlined sea-surface temperature models through parameter reduction techniques.
+  * Contributed to the [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/"), Analytics and Integrative Machine Learning Group during summer appointments in 2018, 2019, and 2021
+  * Developed and implemented highly efficient parallel machine learning models (Multi-Resolution Approximation for Gaussian Processes), enabling processing of large datasets (hundreds-of-millions of observations) with reduced computation times by 75%
+  * Analyzed extensive geospatial satellite data on high-performance computing systems ([Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper)), uncovering global patterns and trends
+  * Facilitated development of streamlined sea-surface temperature models through parameter reduction techniques
 
-- **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2020 - August 2020
-  * Contributed to the Artificial Intelligence and Machine Learning Center of Excellence during a summer internship.
+- **Data Scientist**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2020 - August 2020
+  * Contributed to the Artificial Intelligence and Machine Learning Center of Excellence during a summer internship
   * Developed and implemented advanced algorithms using timeseries LSTMs and CNNs to predict IT application health and detect anomalies, resulting in improved efficiency and cost savings
   * Automated IT analytics exploratory data analysis (EDA), uncovering previously unknown application issues and driving proactive troubleshooting efforts
   * Generated significant monetary savings through effective identification and resolution of IT application issues
 
 - **Research and Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
   * Developed and released practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
-  * A primary component of my PhD work was as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
+  * A primary component of my PhD work was as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado
 
 - **AmeriCorps Math Fellow**, [Denver Public Schools](https://www.dpsk12.org/), August 2016 - June 2017
   *  Enhanced middle school math education by providing personalized and small-group instruction to accelerate students' learning progress
-  *  Orchestrated after-school STEM programs, effectively managing resources and activities to promote student engagement and achievement.
+  *  Orchestrated after-school STEM programs, effectively managing resources and activities to promote student engagement and achievement
 
 - **Research Fellow**, [Four-College Biomathematics Consortium](https://sophia.smith.edu/blog/4cbc/4cbc-fellowships/), May 2015 - May 2016
-  * Conducted innovative research on bovine water-intake in pasture, resulting in valuable insights for the industry.
-  * Developed cost-effective and efficient data collection tools using Arduino and C++, enhancing data accuracy and streamlining processes.
-  * Utilized advanced Matlab modeling techniques to analyze ice phenology of Lake Linné, Svalbard, contributing to the understanding of Arctic ecosystems.
-  * Actively shared research findings at consortium conferences, fostering collaboration and knowledge exchange within the scientific community.
+  * Conducted innovative research on bovine water-intake in pasture, resulting in valuable insights for the industry
+  * Developed cost-effective and efficient data collection tools using Arduino and C++, enhancing data accuracy and streamlining processes
+  * Utilized advanced Matlab modeling techniques to analyze ice phenology of Lake Linné, Svalbard, contributing to the understanding of Arctic ecosystems
+  * Actively shared research findings at consortium conferences, fostering collaboration and knowledge exchange within the scientific community
 
 
 ## Computer Skills
-- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray
-- **Other:** Git, MPI Programming
+- **Programming:** Python, R, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray, iris, geopandas, pytest
+- **Other:** Git, MPI Programming, CI/CD
 
 ## Software Publications and Contributions
 - **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial model for various computational infrastructures)
