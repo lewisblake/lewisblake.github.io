@@ -2,7 +2,7 @@
 title: "Diabetic Retinopathy Screening in the Yucatan Peninsula Using Smartphone-based Fundus Photography and Deep-learning Artificial Intelligence: A Field Study"
 collection: publications
 permalink: /publications/articles/wroblewski-2023
-citation: "Wroblewski, J.J., Sanchez-Buenfil, E., Inciarte, M., Berdia, J., <b>Blake, L.R.</b>, Wroblewski, S., Patti, A., Suter, G., Sanborn, G.E.: <i>&quot;Diabetic Retinopathy Screening in the Yucatan Peninsula Using Smartphone-based Fundus Photography and Deep-learning Artificial Intelligence: A Field Study&quot;</i>, Journal of Diabetes Science and Technology. 2023;0(0).DOI: <a href='https://doi.org/10.1177/19322968231194644'>doi:10.1177/19322968231194644</a>  "
+citation: "Wroblewski, J.J., Sanchez-Buenfil, E., Inciarte, M., Berdia, J., <b>Blake, L.R.</b>, Wroblewski, S., Patti, A., Suter, G., Sanborn, G.E.: <i>&quot;Diabetic Retinopathy Screening in the Yucatan Peninsula Using Smartphone-based Fundus Photography and Deep-learning Artificial Intelligence: A Field Study&quot;</i>, Journal of Diabetes Science and Technology. 2023;0(0).DOI: <a href='https://doi.org/10.1177/19322968231194644'>10.1177/19322968231194644</a>  "
 date: 2023-08-29
 venue: 'Journal of Diabetes Science and Technology'
 ---
