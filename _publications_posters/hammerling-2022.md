@@ -2,7 +2,7 @@
 title: "Nonstationary spatial modeling of massive global satellite data"
 collection: publications
 permalink: /publications/posters/hammerling-2023
-citation: "Hammerling, D., Huang, H., <b>Blake, L.R.</b>, Katzfuss, M.: <i>&quot;Nonstationary spatial modeling of massive global satellite data&quot;</i>, <a href='http://www.cmstatistics.org/RegistrationsV2/SDS2022/viewSubmission.php?id=201&token=9695945974s7739qps79pr51o13088oo'>Poster, Computational Statistics 2022</a>"
+citation: "Hammerling, D., Huang, H., <b>Blake, L.R.</b>, Katzfuss, M.: <i>&quot;Nonstationary spatial modeling of massive global satellite data&quot;</i>, Poster, Computational Statistics 2022"
 date: 2022-08-23
 venue: 'Computational Statistics 2022'
 ---
