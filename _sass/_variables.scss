@@ -118,7 +118,11 @@ $link-color : $info-color;
 $link-color-hover : mix(#000, $link-color, 25%);
 $link-color-visited : mix(#fff, $link-color, 25%);
 $masthead-link-color : $primary-color;
+<<<<<<< HEAD
 $masthead-link-color-hover : mix(#fff, $link-color, 25%);
+=======
+$masthead-link-color-hover : mix(#000, $primary-color, 25%);
+>>>>>>> parent of 9b23c3d (highlight masthead links)
 
 
 /*
