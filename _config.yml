@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "profile_default.png"
+  #avatar           : "profile_default.png"
   bio              : "Computational Scientist" # sidebar bio
   location         : "Oslo, Norway"
   employer         :
