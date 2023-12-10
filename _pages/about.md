@@ -5,7 +5,7 @@ excerpt: "My name is Lewis Blake. I develop computational and theoretical tools 
 data sets.."
 author_profile: true
 header:
-overlay_image: sanjuans.png
+overlay_image: "sanjuans.png"
 overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
 caption: "Photo credit: Ross Ring-Jarvi"
 redirect_from: 
@@ -13,28 +13,8 @@ redirect_from:
   - /about.html
 ---
 
-<div class="homepage-row">
+Hi, I'm Lewis. I am a Computational Scientist in the Division For Climate Modeling and Air Pollution at the [Norwegian Meterological Institute](https://www.met.no/) in Oslo. My work is in climate and air pollution model evaluation and uncertainity quantification. I contribute to the Python package [pyaerocom](https://pypi.org/project/pyaerocom/), which offers a powerful and flexible framework for comparing models against observations and is used extensively throughout our projects. I additionally manage and contribute to contracts for the [European CAMS project](https://atmosphere.copernicus.eu/) for air quality model evaluation and uncertainty quantification.
 
-  <p>Hi, I'm Lewis. I am a Computational Scientist in the Division For Climate Modeling and Air Pollution at the <a
-      href="https://www.met.no" title="https://www.met.no">Norwegian Meterological Institute</a> in Oslo. My work is
-    primarily in climate and air pollution model evaluation. I contribute to the Python package <a
-      href="https://pypi.org/project/pyaerocom/" title="https://pypi.org/project/pyaerocom/">pyaerocom</a>, which offers
-    a powerful and flexible framework for comparing models against observations and is used extensively throughout our
-    projects. I additionally manage and contribute to contracts for the <a href="https://atmosphere.copernicus.eu/"
-      title="https://atmosphere.copernicus.eu/">European CAMS project</a> for air quality model evaluation and
-    uncertainty quantification.
+I completed my PhD in Statistics from the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at [Colorado School of Mines](https://www.mines.edu/) in December 2021. My [thesis](https://hdl.handle.net/11124/15362) developed computational and theoretical tools for analyzing massive nonstationary spatial data sets. A primary component of my PhD was as a Research Assistant at the [National Center for Atmospheric Research (NCAR)](https://ncar.ucar.edu/) in Boulder, Colorado. There I developed and released scalable machine learning models which allow users to compute with hundreds-of-millions of observations and reduced computation times by 75%.
 
-  <p> I completed my PhD in Statistics from the <a href="https://ams.mines.edu/"
-      title="https://ams.mines.edu/">Department of Applied Mathematics and Statistics</a> at <a
-      href="https://www.mines.edu/" title="https://www.mines.edu/">Colorado School of Mines</a> in December 2021.
-    My <a href="https://hdl.handle.net/11124/15362" title="https://hdl.handle.net/11124/15362">thesis</a> foucsed on
-    developing computational and theoretical tools for analyzing massive nonstationary spatial data sets. A primary
-    component of my PhD was as a Research Assistant at the <a href="https://ncar.ucar.edu/"
-      title="https://ncar.ucar.edu/">National Center for Atmospheric Research (NCAR)</a> in Boulder, Colorado.
-    There I developed and released scalable machine learning models which allow users to compute with
-    hundreds-of-millions of observations and reduced computation times by 75%.</p>
-
-  <p> Prior to that, I completed my undergaduate studies concentrating in mathematics, computer science, and agriculture
-    at <a href="https://hampshire.edu/" title="https://hampshire.edu/">Hampshire College</a> in Amherst, Massachusetts.
-  </p>
-</div>
+Prior to that, I completed my undergaduate studies concentrating in mathematics, computer science, and agriculture at [Hampshire College](https://hampshire.edu/) in Amherst, Massachusetts.
