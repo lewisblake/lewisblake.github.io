@@ -5,7 +5,7 @@ excerpt: "My name is Lewis Blake. I develop computational and theoretical tools 
 data sets.."
 author_profile: true
 header:
-overlay_image: "/images/sanjuans.png"
+overlay_image: sanjuans.png
 overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
 caption: "Photo credit: Ross Ring-Jarvi"
 redirect_from: 

@@ -17,5 +17,6 @@ My research focused on developing spatial statistical tools to analyze massive s
 
 ## Research Interests
 - Spatial statistics
+- Machine learning
 - High performance computing
 - Earth sciences including oceanography, atmospheric science, and climate
