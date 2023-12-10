@@ -8,7 +8,9 @@ header:
 overlay_image: sanjuans.png
 overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
 caption: "Photo credit: Ross Ring-Jarvi"
-redirect_from:
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <div class="homepage-row">
