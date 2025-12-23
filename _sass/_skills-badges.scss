@@ -1,0 +1,128 @@
+/* ==========================================================================
+   Enhanced Skills Badges
+   ========================================================================== */
+
+/* Container for skills badges */
+.page__content h3 + p img[src*="shields.io"],
+.page__content h3 + p a img[src*="shields.io"] {
+  margin: 0.4em 0.3em;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  
+  &:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  &:active {
+    transform: translateY(-1px) scale(1.02);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12);
+  }
+}
+
+/* Wrapper for badge sections with better spacing */
+.page__content h3 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  font-size: 1.125em;
+  color: $text-color;
+  font-weight: 600;
+  border-bottom: 2px solid $border-color;
+  padding-bottom: 0.5em;
+}
+
+/* Paragraph containing badges */
+.page__content h3 + p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1.5em;
+  align-items: center;
+}
+
+/* Staggered animation for badges on page load */
+.page__content img[src*="shields.io"] {
+  animation: fadeInUp 0.5s ease-out backwards;
+  
+  &:nth-of-type(1) { animation-delay: 0.05s; }
+  &:nth-of-type(2) { animation-delay: 0.1s; }
+  &:nth-of-type(3) { animation-delay: 0.15s; }
+  &:nth-of-type(4) { animation-delay: 0.2s; }
+  &:nth-of-type(5) { animation-delay: 0.25s; }
+  &:nth-of-type(6) { animation-delay: 0.3s; }
+  &:nth-of-type(7) { animation-delay: 0.35s; }
+  &:nth-of-type(8) { animation-delay: 0.4s; }
+}
+
+/* Specializations list styling */
+.page__content h3 + ul {
+  list-style: none;
+  padding-left: 0;
+  
+  li {
+    padding: 0.75em 0;
+    padding-left: 1.5em;
+    position: relative;
+    transition: all 0.3s ease;
+    
+    &:before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: $link-color;
+      font-weight: bold;
+      font-size: 1.2em;
+      transition: all 0.3s ease;
+    }
+    
+    &:hover {
+      padding-left: 1.75em;
+      
+      &:before {
+        transform: translateX(4px);
+      }
+    }
+    
+    strong {
+      color: $link-color;
+      font-weight: 600;
+    }
+  }
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] {
+  .page__content h3 {
+    color: var(--heading-color);
+    border-bottom-color: var(--border-color);
+  }
+  
+  .page__content img[src*="shields.io"] {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    
+    &:hover {
+      box-shadow: 0 6px 12px rgba(6, 182, 212, 0.3);
+    }
+  }
+  
+  .page__content h3 + ul li:before {
+    color: var(--link-color);
+  }
+  
+  .page__content h3 + ul li strong {
+    color: var(--link-color);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .page__content h3 + p {
+    justify-content: center;
+  }
+  
+  .page__content h3 + p img[src*="shields.io"] {
+    margin: 0.3em 0.2em;
+  }
+}

@@ -1,0 +1,92 @@
+/* ==========================================================================
+   Custom Modern Button Styles
+   ========================================================================== */
+
+/* Modern Primary Button */
+.btn--primary-modern {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.75em 1.75em;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #ffffff !important;
+  background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(8, 145, 178, 0.2), 0 1px 3px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  
+  &:hover {
+    color: #ffffff !important;
+    background: linear-gradient(135deg, #0e7490 0%, #0891b2 100%);
+    box-shadow: 0 10px 20px rgba(8, 145, 178, 0.3), 0 3px 6px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+  }
+  
+  &:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(8, 145, 178, 0.2), 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  i {
+    font-size: 1.1em;
+  }
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .btn--primary-modern {
+  background: linear-gradient(135deg, #06b6d4 0%, #22d3ee 100%);
+  box-shadow: 0 4px 6px rgba(6, 182, 212, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2);
+  
+  &:hover {
+    background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
+    box-shadow: 0 10px 20px rgba(6, 182, 212, 0.4), 0 3px 6px rgba(0, 0, 0, 0.25);
+  }
+  
+  &:active {
+    box-shadow: 0 2px 4px rgba(6, 182, 212, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* Secondary modern button variant */
+.btn--secondary-modern {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.75em 1.75em;
+  font-size: 1em;
+  font-weight: 600;
+  color: #0891b2 !important;
+  background: transparent;
+  border: 2px solid #0891b2;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  
+  &:hover {
+    color: #ffffff !important;
+    background: #0891b2;
+    border-color: #0891b2;
+    box-shadow: 0 4px 12px rgba(8, 145, 178, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+[data-theme="dark"] .btn--secondary-modern {
+  color: #06b6d4 !important;
+  border-color: #06b6d4;
+  
+  &:hover {
+    color: #1a1a1a !important;
+    background: #06b6d4;
+    border-color: #06b6d4;
+  }
+}

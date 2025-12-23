@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <p align="center" style="margin: 2em auto;">
-  For complete employment history, software contributions, teaching experience, and more details:<br><br>
-  <a href="/files/LewisBlakeResume.pdf" class="btn btn--primary" style="font-size: 1.1em;">
+  For complete employment history, software contributions, publications, and more details:<br><br>
+  <a href="/files/LewisBlakeResume.pdf" class="btn--primary-modern">
     <i class="fas fa-download"></i> Download Full CV (PDF)
   </a>
 </p>
@@ -30,11 +30,11 @@ redirect_from:
 - **B.A. in Mathematics**, 2016 — Hampshire College
 
 ## Experience
-**Senior Software Developer** | [Statkraft](https://www.statkraft.com/) | Nov 2024 - Present
+**Senior Software Developer** | [Statkraft](https://www.statkraft.com/) | Oct 2024 - Present
 - Developing data-driven systems for energy management and trading operations
 - Building pipelines for large-scale weather, hydrological, and market data analysis
 
-**Computational Scientist** | [Norwegian Meteorological Institute](https://www.met.no) | Mar 2022 - Nov 2024
+**Computational Scientist** | [Norwegian Meteorological Institute](https://www.met.no) | Mar 2022 - Sep 2024
 - Developed machine learning-based air pollution forecasting models for operational use
 - Managed contracts for Copernicus Atmosphere Monitoring Service (CAMS)
 - Applied data fusion techniques for air quality modeling
