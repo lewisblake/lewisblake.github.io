@@ -34,9 +34,15 @@ redirect_from:
   - *Minor Concentrations:* Computer Science, Agriculture, Entrepreneurship
 
 ## Experience
-- **Computational Scientist**, [Norwegian Meterological Institute](https://www.met.no), March 2022 - Present
+- **Senior Software Developer**, [Statkraft](https://www.statkraft.com/), November 2024 - Present
+
+  - Software developer in IT Development Nordics developing solutions for energy mangament.
+  - Working with modern cloud technologies and data-driven decision support systems
+
+- **Computational Scientist**, [Norwegian Meteorological Institute (MET Norway)](https://www.met.no), March 2022 - November 2024
 
   - Researcher and software developer in the Department of Research and Development, Division For Climate Modeling and Air Pollution
+  - Developed machine learning-based air pollution forecasting models for operational use in Norway
   - Managed and implemented contracts for the Copernicus Atmosphere Monitoring Service (CAMS) for regional and global air quality model evaluation from software package development through production
   - Achieved significant advancements in pollution deposition modeling for Norway, utilizing cutting-edge machine learning-based data fusion techniques
   - Authored a comprehensive technical report outlining the methodology, findings, and environmental and economic impacts for the Norwegian Environment Agency

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "LEWIS BLAKE" # site title
 title_separator          : "&#124;"
 name                     : &name "Lewis Blake"
-description              : &description "Computational Scientist." # used predominantly in meta descriptions for improving SEO
+description              : &description "Senior Software Developer at Statkraft. Statistics, Machine Learning, and Optimization." # used predominantly in meta descriptions for improving SEO
 url                      : https://lewisblake.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lewisblake/lewisblake.github.io"
@@ -84,11 +84,11 @@ analytics:
 author:
   name             : *name # sidebar name
   # avatar           : "headshot.JPG"
-  bio              : "Computational Scientist" # sidebar bio
+  bio              : "Senior Software Developer" # sidebar bio
   location         : "Oslo, Norway"
-  employer         :
+  employer         : "Statkraft"
   googlescholar    : "DY_BINkAAAAJ"
-  email            : "lewis.blake@met.no"
+  email            : "lewisrae.blake@statkraft.com"
   researchgate     : "Lewis-Blake"
   uri              :
   bitbucket        :
