@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <p align="center" style="margin: 2em auto;">
-  For complete employment history, software contributions, teaching experience, and more details:<br><br>
-  <a href="/files/LewisBlakeResume.pdf" class="btn btn--primary" style="font-size: 1.1em;">
+  For complete employment history, software contributions, publications, and more details:<br><br>
+  <a href="/files/LewisBlakeResume.pdf" class="btn--primary-modern">
     <i class="fas fa-download"></i> Download Full CV (PDF)
   </a>
 </p>
