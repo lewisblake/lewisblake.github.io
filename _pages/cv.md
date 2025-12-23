@@ -30,11 +30,11 @@ redirect_from:
 - **B.A. in Mathematics**, 2016 — Hampshire College
 
 ## Experience
-**Senior Software Developer** | [Statkraft](https://www.statkraft.com/) | Nov 2024 - Present
+**Senior Software Developer** | [Statkraft](https://www.statkraft.com/) | Oct 2024 - Present
 - Developing data-driven systems for energy management and trading operations
 - Building pipelines for large-scale weather, hydrological, and market data analysis
 
-**Computational Scientist** | [Norwegian Meteorological Institute](https://www.met.no) | Mar 2022 - Nov 2024
+**Computational Scientist** | [Norwegian Meteorological Institute](https://www.met.no) | Mar 2022 - Sep 2024
 - Developed machine learning-based air pollution forecasting models for operational use
 - Managed contracts for Copernicus Atmosphere Monitoring Service (CAMS)
 - Applied data fusion techniques for air quality modeling
