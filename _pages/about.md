@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "Senior Software Developer specializing in data-driven systems, machine learning, and quantitative analysis for energy and environmental applications."
 author_profile: true
 header:

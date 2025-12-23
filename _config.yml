@@ -8,9 +8,9 @@
 # Site Settings
 #remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 locale                   : "en-US"
-title                    : "LEWIS BLAKE" # site title
+title                    : "LEWIS R. BLAKE, PHD" # site title
 title_separator          : "&#124;"
-name                     : &name "Lewis Blake"
+name                     : &name "Lewis R. Blake, PhD"
 description              : &description "Senior Software Developer at Statkraft. Statistics, Machine Learning, and Optimization." # used predominantly in meta descriptions for improving SEO
 url                      : https://lewisblake.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
