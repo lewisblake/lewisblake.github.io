@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Current Work
-I currently work as a Senior Software Developer at [Statkraft](https://www.statkraft.com/), developing software solutions for hydropower operations and energy trading. My work involves developing systems which collect, process, and curate weather, hydrological, and climate data sets.
+I currently work as a Senior Software Developer at [Statkraft](https://www.statkraft.com/), developing software solutions for energy managment. My work involves developing systems which collect, process, and curate weather, hydrological, and climate data sets.
 
 Previously, I worked on climate and air pollution modeling projects at the [Norwegian Meteorological Institute (MET Norway)](https://www.met.no/), where I developed machine learning-based air pollution forecasting models and contributed to the development of the Python package [pyaerocom](https://pypi.org/project/pyaerocom/) for air quality model evaluation.
 
