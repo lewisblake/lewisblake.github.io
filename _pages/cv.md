@@ -33,12 +33,11 @@ redirect_from:
 **Senior Software Developer** | [Statkraft](https://www.statkraft.com/) | Nov 2024 - Present
 - Developing data-driven systems for energy management and trading operations
 - Building pipelines for large-scale weather, hydrological, and market data analysis
-- Implementing predictive models for energy production and price forecasting
 
 **Computational Scientist** | [Norwegian Meteorological Institute](https://www.met.no) | Mar 2022 - Nov 2024
 - Developed machine learning-based air pollution forecasting models for operational use
 - Managed contracts for Copernicus Atmosphere Monitoring Service (CAMS)
-- Applied data fusion techniques for pollution deposition modeling
+- Applied data fusion techniques for air quality modeling
 
 **Ph.D. Researcher** | Colorado School of Mines & NCAR | 2017 - 2021
 - Created parallel computing algorithms reducing computation time by 75% for massive datasets
