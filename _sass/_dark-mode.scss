@@ -136,6 +136,32 @@
 [data-theme="dark"] .page__footer {
   background-color: var(--nav-background);
   color: var(--text-color);
+  border-top-color: var(--border-color);
+}
+
+[data-theme="dark"] .page__footer a {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .page__footer a:hover {
+  color: var(--link-color);
+}
+
+[data-theme="dark"] .page__footer-follow a {
+  border-color: var(--border-color);
+  
+  &:hover {
+    background-color: var(--link-color);
+    border-color: var(--link-color);
+  }
+}
+
+[data-theme="dark"] .page__footer-follow i {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .page__footer-copyright {
+  color: var(--muted-text);
 }
 
 /* Images (slightly dimmed in dark mode) */

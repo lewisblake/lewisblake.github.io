@@ -1,5 +1,5 @@
 /* ==========================================================================
-   FOOTER
+   FOOTER - Modern & Compact
    ========================================================================== */
 
 .page__footer {
@@ -27,9 +27,10 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1.5em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 1.5em;
+    text-align: center;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -41,7 +42,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: $link-color;
     }
   }
 
@@ -50,38 +52,62 @@
   .far,
   .fal {
     color: mix(#fff, $gray, 25%);
+    transition: all 0.3s ease;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  margin-top: 1em;
+  color: mix(#fff, $gray, 40%);
+  text-align: center;
 }
 
 .page__footer-follow {
   ul {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    flex-wrap: wrap;
   }
 
   li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
   }
 
   a {
-    padding-right: 10px;
-    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid mix(#fff, $gray, 40%);
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: $link-color;
+      border-color: $link-color;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      
+      i {
+        color: #fff;
+      }
+    }
+
+    i {
+      font-size: 1.2em;
+      color: mix(#fff, $gray, 40%);
+      transition: color 0.3s ease;
+    }
   }
 
   .social-icons {
