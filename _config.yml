@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  # avatar           : "headshot.JPG"
+  avatar           : "headshot.jpeg"
   bio              : "Senior Software Developer" # sidebar bio
   location         : "Oslo, Norway"
   employer         : "Statkraft"
