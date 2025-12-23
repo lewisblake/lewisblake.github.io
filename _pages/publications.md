@@ -24,13 +24,3 @@ redirect_from:
 {% for post in site.publications_technotes reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-## Posters
-{% for post in site.publications_posters reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Manuscripts in Preparation and Preprints
-{% for post in site.publications_in_preparation reversed %}
-  {% include archive-single.html %}
-{% endfor %}

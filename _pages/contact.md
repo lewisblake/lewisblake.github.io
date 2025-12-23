@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-### Mailing address
-<address>
-Meteorologisk institutt<br />
-Henrik Mohns plass 1<br />
-0313 Oslo<br />
-Norway
-</address><br />
-
-
 ### Online
 <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
 <i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
